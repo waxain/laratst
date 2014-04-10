@@ -19,5 +19,5 @@
             "Netizens\\TestPkg\\": "src/"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
